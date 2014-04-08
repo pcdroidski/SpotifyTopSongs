@@ -1,0 +1,1 @@
+Simple application that hits the Spotify API and parses out the latest top songs.

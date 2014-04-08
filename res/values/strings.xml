@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SpotifySongs</string>
+    <string name="plays_text">plays</string>
+    <string name="retry_string">Retry</string>
+    <string name="no_connection_string">Unable to load song list. \n Please check your internet connection.</string>
+</resources>
